@@ -1,9 +1,3 @@
-Dataset: Where it’s from, any steps to load it.
-Setup: Python version, virtual environment instructions, and how to install dependencies (pip install -r requirements.txt).
-Running: How to run your code (e.g., python recommend.py "Some user description" or open your notebook in Jupyter).
-Results: A brief example of your system’s output for a sample query.
-
-
 
 ## Dataset
 
@@ -27,7 +21,7 @@ Results: A brief example of your system’s output for a sample query.
    
    
    ```
-   jacobgino@MacBook-Pro-3 lumaa-spring-2025-ai-ml % python3 recommend.py "I love thrilling action movies set in space, with a comedic twist."
+   jacobgino@MacBook-Pro lumaa-spring-2025-ai-ml % python3 recommend.py "I love thrilling action movies set in space, with a comedic twist."
 
    Recommendations for query: "I love thrilling action movies set in space, with a comedic twist."
 
