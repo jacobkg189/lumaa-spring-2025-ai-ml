@@ -27,16 +27,17 @@ Results: A brief example of your system’s output for a sample query.
 
    Sample Output:
    
-   `
-   jacobgino@MacBook-Pro-3 lumaa-spring-2025-ai-ml % python3 recommend.py "I love thrilling action movies set in space, with a comedic twist."'
+   
+   `jacobgino@MacBook-Pro-3 lumaa-spring-2025-ai-ml % python3 recommend.py "I love thrilling action movies set in space, with a comedic twist."`
 
-   Recommendations for query: "I love thrilling action movies set in space, with a comedic twist."
+   `Recommendations for query: "I love thrilling action movies set in space, with a comedic twist."`
 
    Title: Gravity | Similarity: 0.0843
    Title: Lost in Space | Similarity: 0.0760
    Title: Mad Max: Fury Road | Similarity: 0.0704
    Title: Up | Similarity: 0.0677
    Title: Treasure Planet | Similarity: 0.0669
+
    `
 
 
