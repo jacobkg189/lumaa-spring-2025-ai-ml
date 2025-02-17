@@ -32,11 +32,13 @@ Results: A brief example of your system’s output for a sample query.
 
    `Recommendations for query: "I love thrilling action movies set in space, with a comedic twist."`
 
+   ```
    Title: Gravity | Similarity: 0.0843
    Title: Lost in Space | Similarity: 0.0760
    Title: Mad Max: Fury Road | Similarity: 0.0704
    Title: Up | Similarity: 0.0677
    Title: Treasure Planet | Similarity: 0.0669
+   ```
 
    `
 
