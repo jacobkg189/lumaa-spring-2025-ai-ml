@@ -12,7 +12,7 @@ Results: A brief example of your system’s output for a sample query.
 ### Setup
 
    I use python version 11 but it does not require a specfic version. I have included a requirements.txt file that has the pip requirements.
-   - Run the requirements.txt file with the command (`pip install -r requirements.txt`)
+   - Run the requirements.txt file with the command `pip install -r requirements.txt`
 
 
 ## Running
@@ -26,8 +26,9 @@ Results: A brief example of your system’s output for a sample query.
 ## Results
 
    Sample Output:
-
-   ('jacobgino@MacBook-Pro-3 lumaa-spring-2025-ai-ml % python3 recommend.py "I love thrilling action movies set in space, with a comedic twist."')
+   
+   `
+   jacobgino@MacBook-Pro-3 lumaa-spring-2025-ai-ml % python3 recommend.py "I love thrilling action movies set in space, with a comedic twist."'
 
    Recommendations for query: "I love thrilling action movies set in space, with a comedic twist."
 
@@ -36,6 +37,8 @@ Results: A brief example of your system’s output for a sample query.
    Title: Mad Max: Fury Road | Similarity: 0.0704
    Title: Up | Similarity: 0.0677
    Title: Treasure Planet | Similarity: 0.0669
+   `
+
 
 
 
